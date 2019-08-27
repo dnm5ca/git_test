@@ -1,3 +1,4 @@
+#Testing out Git
 ps <- dbinom(1:100, 400, .06)
 plot(1:100, ps, "l")
 

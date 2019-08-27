@@ -1,3 +1,3 @@
 # git_test
 
-Testing git 
+Git on the Desktop
